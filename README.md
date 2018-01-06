@@ -5,7 +5,7 @@
 
 2. Start the container:
 
-   `$ docker run -d -p 8443:80 -v /usr/share/nginx/html:/path/to/static/files:ro quay.io/outcomebet/casino25-games-static`
+   `$ docker run -d -p 8443:80 -v /path/to/static/files:/usr/share/nginx/html:ro quay.io/outcomebet/casino25-games-static`
 
    Replace `/path/to/static/files` with the games static path on the host machine.
 
