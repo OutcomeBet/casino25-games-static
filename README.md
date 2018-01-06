@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/outcomebet/casino25-games-static/status "Docker Repository on Quay")](https://quay.io/repository/outcomebet/casino25-games-static)
+
 ## Basic usage
 1. Pull the image:
 
